@@ -51,30 +51,36 @@ reliable and scalable approach to modern web deployment.
 
 <div align="center">
   
-![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/home.png?raw=true)
+  
   <p><strong>Home page – </strong></p>
+  
+![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/home.png?raw=true)
+  
 
 
+<p><strong>food page – </strong></p>
 
   ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/food.png?raw=true)
-  <p><strong>food page – </strong></p>
+  
 
-
+ <p><strong>Order page - </strong></p>
 
   ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/order.png?raw=true)
-  <p><strong>Order page - </strong></p>
-
+ 
+ <p><strong>About page - </strong></p>
+ 
   ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/about%20us.png?raw=true)
-  <p><strong>About page - </strong></p>
+ 
 
-
+ <p><strong>Login page - </strong></p>
+ 
 ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/login.png?raw=true)
-  <p><strong>Login page - </strong></p>
-
-  
+ 
+ <p><strong>Website Deployment Architecture Diagram</strong></p>
+ 
   ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/flow_chart.png?raw=true)
 
-  <p><strong>Website Deployment Architecture Diagram</strong></p>
+ 
 </div>
 
 ---
