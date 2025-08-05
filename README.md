@@ -7,7 +7,7 @@
 ![Image Alt](https://github.com/20Dartside/Food-ordering-Website-Deploy-on-Devops/blob/master/output_img/login.png?raw=true)
 -->
 
-#  Deploymenting Website using  Docker , Git & Jenkins
+#  Deploying Website with the help  Docker , Git & Jenkins
 
 This project demonstrates that  how a CI/CD pipeline is implemented to automate website deployment using Jenkins, Docker, and Git (GitHub for version control) on Ubuntu servers. Whenever new code is pushed to GitHub, Jenkins automatically retrieves the changes, builds a Docker image, and redeploys the website. This process ensures continuous integration and continuous delivery, keeping the website consistently updated and reducing manual effort.
 
